@@ -22,6 +22,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0ea6ceff795631cf8a960c8d0cecc5af"
+      },
+      "newArchEnabled":true
+    },
+    "owner": "arbaz"
   }
-}
+} 
